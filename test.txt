@@ -1,7 +1,1 @@
-git git git
-good good good
-GPL
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-switched to dev(modified test.txt)
-on dev modified
+modified on main
